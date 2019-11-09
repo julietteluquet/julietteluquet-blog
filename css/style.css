@@ -1,0 +1,30 @@
+/* Importing Google Font */
+@import url('https://fonts.googleapis.com/css?family=Liu+Jian+Mao+Cao|Montserrat|Staatliches&display=swap');
+
+/* Importing all components file */ 
+@import url("components/avatar.css");
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+h1, h2, h3{
+
+	font-family: 'Staatliches', cursive;
+	color: #293a80;
+	text-align: center; 
+}
+
+body{
+
+	font-family: 'Montserrat', sans-serif;
+	background-color: #ecfcff;
+	font-size: 18px;
+	text-align: justify;
+	margin: 0px;
+}
+
+a{
+
+	text-decoration: none;
+}
